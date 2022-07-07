@@ -1,2 +1,2 @@
 # GitProject
-Hello, this is a text i add to readme file
+Hi, this is where i store all of my homeworks, projects and answers when studying Javascript and HTML/CSS.
